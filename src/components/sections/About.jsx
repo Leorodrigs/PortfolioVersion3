@@ -1,5 +1,4 @@
 import { RevealOnScroll } from "../RevealOnScroll";
-
 export const About = () => {
   return (
     <section
@@ -14,7 +13,7 @@ export const About = () => {
 
           <div className="flex flex-col md:flex-row items-center md:items-start gap-8 rounded-xl p-8 border-sky-200 border hover:-translate-y-1 transition-all">
             <img
-              src="src/assets/profile-picture.png"
+              src="/profile-picture.png"
               alt="Foto de Leonardo Rodrigues"
               className="object-cover rounded-lg shadow-lg"
             />

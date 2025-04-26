@@ -49,7 +49,7 @@ export const Skills = () => {
              <FaNodeJs size={100}/>         
             </div> 
             <div className="bg-gradient-to-br from-sky-200 to-sky-400 text-stone-900 px-1 py-1 rounded shadow-md border border-sky-600 transition-all duration-300 hover:shadow-lg hover:brightness-190 active:brightness-95">
-             <img src="src/assets/csharp-icon.svg" className="w-24 h-24" />
+             <img src="/csharp-icon.svg" className="w-24 h-24" />
             </div>  
             <div className="bg-gradient-to-br from-sky-200 to-sky-400 text-stone-900 px-1 py-1 rounded shadow-md border border-sky-600 transition-all duration-300 hover:shadow-lg hover:brightness-190 active:brightness-95">
              <AiOutlineDotNet size={100}/>         
