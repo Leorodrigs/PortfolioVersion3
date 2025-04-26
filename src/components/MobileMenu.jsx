@@ -46,7 +46,7 @@ export const MobileMenu = ({ menuOpen, setMenuOpen }) => {
         Sobre mim
       </a>
       <a
-        href="#projects"
+        href="#skills"
         onClick={() => setMenuOpen(false)}
         className={`text-4xl font-bold my-4 bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent leading-tight
             ${

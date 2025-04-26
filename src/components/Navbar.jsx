@@ -8,7 +8,7 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
     <nav className="fixed top-0 left-0 w-full z-40 bg-stone-900 backdrop-blur-lg">
       <div className="max-w-5xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
-          <a href="#home" className="font-mono text-xl font-bold bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent ml-1">
+          <a href="#home" className="font-mono text-3xl font-bold bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent ml-1">
             
             Léo Rodrigues
           </a>

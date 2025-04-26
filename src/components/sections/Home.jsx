@@ -10,11 +10,11 @@ export const Home = () => {
     >
       <RevealOnScroll>
         <div className="text-left z-10 px-4">
-          <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent leading-tight">
+          <h1 className="text-center text-3xl md:text-7xl font-bold bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent leading-tight">
             Leonardo Rodrigues
           </h1>
 
-          <p className="text-slate-100 font-semibold text-3xl md:text-5xl mb-8">
+          <p className="text-center text-slate-100 font-semibold text-2xl md:text-5xl mb-8">
             Desenvolvedor Full-Stack
           </p>
           <div className="flex justify-center space-x-8 mt-6">

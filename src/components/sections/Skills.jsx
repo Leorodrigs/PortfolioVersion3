@@ -17,7 +17,7 @@ export const Skills = () => {
     >
       <RevealOnScroll>
         <div className="max-w-5xl mx-auto px-4 w-full">
-          <h2 className="text-5xl md:text-7xl text-center font-bold bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent leading-tight mb-10">
+          <h2 className="text-5xl md:text-7xl text-center font-bold bg-gradient-to-r from-slate-100 to-sky-200 bg-clip-text text-transparent leading-tight mt-10 mb-10">
             Habilidades
           </h2>
 
@@ -49,7 +49,7 @@ export const Skills = () => {
              <FaNodeJs size={100}/>         
             </div> 
             <div className="bg-gradient-to-br from-sky-200 to-sky-400 text-stone-900 px-1 py-1 rounded shadow-md border border-sky-600 transition-all duration-300 hover:shadow-lg hover:brightness-190 active:brightness-95">
-             <img src="/src/assets/csharp-icon.svg" className="w-24 h-24" />
+             <img src="src/assets/csharp-icon.svg" className="w-24 h-24" />
             </div>  
             <div className="bg-gradient-to-br from-sky-200 to-sky-400 text-stone-900 px-1 py-1 rounded shadow-md border border-sky-600 transition-all duration-300 hover:shadow-lg hover:brightness-190 active:brightness-95">
              <AiOutlineDotNet size={100}/>         
